@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bjwealthy
-- 👀 I’m interested in Wen and Mobile Development Projects
+- 👀 I’m interested in Web and Mobile Development Projects
 - 🌱 I’m currently learning so Much
 - 💞️ I’m looking to collaborate on any JS projects
 - 📫 How to reach me bjwealthy@gmail.com
